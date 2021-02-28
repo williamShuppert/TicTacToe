@@ -4,4 +4,4 @@ I made this program to practice with recursion and utilize the minimax algorithm
 
 ## Output:
 
-![output](
+![output](https://github.com/williamShuppert/TicTacToe/blob/main/tictactoe.PNG)
